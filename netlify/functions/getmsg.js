@@ -26,7 +26,7 @@ you need.
 */
 // Reference: https://docs.netlify.com/functions/build-with-javascript/#synchronous-function-format
 const mongoose = require('mongoose');
-const uri_msg = "mongodb+srv://admin:fujmdk491201@eclt5830.afmoxem.mongodb.net/my_asg4_db?retryWrites=true&w=majority";
+const uri_msg = "mongodb+srv://admin:****@*****.afmoxem.mongodb.net/my_asg4_db?retryWrites=true&w=majority";
 mongoose.connect(uri_msg);
 const Schema = mongoose.Schema;
 const msgSchema = new Schema({
