@@ -3,4 +3,4 @@ A simple individual web page based on nodejs, mongodb and netlify. Node modules 
 
 The link web page is a simple list of pictures, link to its descriptions, a home button and a messageboard. The message history will externally exist unless manully deleted from mongodb.
 
-Pay attention, the mongodb url in getmsg.js is removed for security.
+Pay attention, the mongodb url in netlify/functions/getmsg.js is removed for security.
