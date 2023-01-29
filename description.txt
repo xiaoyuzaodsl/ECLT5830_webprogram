@@ -1,0 +1,2 @@
+I think the message board will take a few seconds to load the past comment.
+The main part of homepage is from asg2, so clicking on the picture will just enlarge it. Only the title is linked to detail.
